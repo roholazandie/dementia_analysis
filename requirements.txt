@@ -1,0 +1,8 @@
+pandas
+xlrd
+pyyaml
+transformers==3.4.0
+torch
+setuptools==41.0.0
+sklearn
+pytorch-lightning==0.9.0
