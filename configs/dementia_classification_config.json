@@ -1,10 +1,10 @@
 {
-  "data_dir": "/home/rohola/codes/dementia_analysis/data/dementia/unbalanced",
-  "cache_dir": "/home/rohola/codes/dementia_analysis/caches",
+  "data_dir": "../data/dementia/unbalanced",
+  "cache_dir": "../caches",
   "config_name": null,
   "model_name_or_path": "roberta-base",
   "tokenizer_name": "roberta-base",
-  "output_dir": "/home/rohola/codes/dementia_analysis/outputs",
+  "output_dir": "../outputs",
   "do_train": true,
   "do_predict": true,
   "weight_decay": 0.0,
