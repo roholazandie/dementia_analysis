@@ -176,3 +176,4 @@ checkpoints
 /text2text_generation/atomic2020_transformer/raw_data/
 /text2text_generation/abduction/abduction_aug_checkpoints/
 /text_multiple_choice/data/
+/results/
